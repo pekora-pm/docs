@@ -5,5 +5,5 @@ Here stores technical details about how the Pekora Manager is implemented. Altho
 ## Table of contents
 
 - Pekora's `mkpkg` System
-- [Binary Package Specification](./binary-package)
+- [Binary Package Specification](./binary-package.md)
 - Database Structures
