@@ -2,7 +2,7 @@
   "name": "pekora-docs",
   "version": "1.0.0",
   "author": "KsRyY <25174488+KsRyY@users.noreply.github.com>",
-  "license": "CC-SA-4.0",
+  "license": "CC-BY-4.0",
   "devDependencies": {
     "vuepress": "^1.8.0"
   },
